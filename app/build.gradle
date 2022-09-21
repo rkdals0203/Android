@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.zzalsangsung.androidlab"
+        applicationId "com.tutorial.androidlab"
         minSdk 21
         targetSdk 32
         versionCode 1

@@ -5,6 +5,9 @@
       <map>
         <entry key="c11/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="c13/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="c14/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="ch06_view/src/main/res/layout/activity_main.xml" value="0.37604166666666666" />
+        <entry key="stopwatch/src/main/res/layout/activity_main.xml" value="0.1953125" />
       </map>
     </option>
   </component>
