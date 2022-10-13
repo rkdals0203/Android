@@ -8,13 +8,12 @@ import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
-
-    val vibButton = findViewById<Button>(R.id.vibration)
-    val beepButton = findViewById<Button>(R.id.beep)
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val vibButton = findViewById<Button>(R.id.vibration)
+        val beepButton = findViewById<Button>(R.id.beep)
 
         vibButton.setOnClickListener {
             val vibrator = if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
