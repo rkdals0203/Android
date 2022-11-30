@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/visibleBtn"
+        android:layout_width="match_parent"
+        android:layout_height="133dp"
+        android:background="#A54343"
+        android:text="       < 2022년 > < 10월 >               "
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        app:rippleColor="#8E1A1A" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10월 순공시간: 30시간 26분 47초"
+        android:textSize="28dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10월 목표 달성률: 76%"
+        android:textSize="28dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="299dp"
+        app:srcCompat="@drawable/ic_calendar"
+        tools:srcCompat="@drawable/ic_calendar" />
+
+    <Button
+        android:id="@+id/visibleBtn2"
+        android:layout_width="match_parent"
+        android:layout_height="83dp"
+        android:background="#A54343"
+        android:text="학습 방향성 분석: 목표 달성률이 낮아요. 좀 더 실현할 수 있는 목표부터 설정해봅시다. 10월 순공 시간은 같은 시험 준비자 중 상위 20%입니다. "
+        android:textSize="14dp"
+        app:rippleColor="#8E1A1A" />
+
+
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2022년 10월 13일 (화)"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="00시 01시 02시 03시 04시 05시"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:text="캘린더           챌린지           홈           그룹"
+        android:textSize="24dp" />
+
+</LinearLayout>

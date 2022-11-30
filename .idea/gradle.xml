@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aicamstudy" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/c11" />
             <option value="$PROJECT_DIR$/c13" />
@@ -47,6 +48,8 @@
             <option value="$PROJECT_DIR$/c68" />
             <option value="$PROJECT_DIR$/c71" />
             <option value="$PROJECT_DIR$/c72" />
+            <option value="$PROJECT_DIR$/c81" />
+            <option value="$PROJECT_DIR$/c82" />
             <option value="$PROJECT_DIR$/ch06_view" />
             <option value="$PROJECT_DIR$/ch07_layout" />
             <option value="$PROJECT_DIR$/ch9_resource" />

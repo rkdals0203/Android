@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="aicamstudy/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="c11/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="c13/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="c14/src/main/res/layout/activity_main.xml" value="0.1953125" />
