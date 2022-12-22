@@ -50,6 +50,9 @@
             <option value="$PROJECT_DIR$/c72" />
             <option value="$PROJECT_DIR$/c81" />
             <option value="$PROJECT_DIR$/c82" />
+            <option value="$PROJECT_DIR$/c83" />
+            <option value="$PROJECT_DIR$/c90" />
+            <option value="$PROJECT_DIR$/c91" />
             <option value="$PROJECT_DIR$/ch06_view" />
             <option value="$PROJECT_DIR$/ch07_layout" />
             <option value="$PROJECT_DIR$/ch9_resource" />
@@ -57,5 +60,6 @@
         </option>
       </GradleProjectSettings>
     </option>
+    <option name="offlineMode" value="true" />
   </component>
 </project>
